@@ -1,5 +1,3 @@
-# Bot-Whatsapp-WEB
-
 Bot de whatsapp con respuestas predeterminadas 
 
 Paso 1: ES NECESARIO TENER INSTALADO NODE JS. Abrir la terminar, crear una carpeta y entrar en esta.
